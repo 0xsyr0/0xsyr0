@@ -4,11 +4,9 @@ I am a cybersecurity specialist, red teamer and capture the flag player. If you 
 
 In case that you are looking for a CTF team, feel free to open a join request on my team.
 
-<p align="center">
-<a href="Hack The Box"<script src="https://www.hackthebox.eu/badge/156456"></script></a>
-                                                          
-<a href="TryHackMe"<script src="https://tryhackme.com/badge/156643"></script></a>
-</p>
+<a href="Hack The Box"<img src="https://www.hackthebox.eu/badge/156456"></img></a>                                                        
+<a href="TryHackMe"<img src="https://tryhackme.com/badge/156643"></img></a>
+
 
 ## Support
 
