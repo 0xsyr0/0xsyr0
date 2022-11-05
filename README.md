@@ -1,6 +1,6 @@
 ## About me
 
-I am a cybersecurity specialist, red teamer and capture the flag player. If you want to read a little bit more, check out my blog on [Medium](https://syro.medium.com/) and also my [Hack The Box](https://app.hackthebox.com/profile/156456) profile.
+I am a cybersecurity specialist, red teamer and capture the flag player. If you want to read a little bit more, check out my blog on [Medium](https://syro.medium.com/) and also my [Hack The Box](https://app.hackthebox.com/profile/156456) profile. You can also find me on [Mastodon](https://infosec.exchange/@syro)
 
 In case that you are looking for a CTF team, feel free to open a join request on my team.
 
