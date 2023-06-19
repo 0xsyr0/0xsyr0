@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/0xsyr0/0xsyr0/blob/master/files/banner.jpg">
+</p>
+
 ## About me
 
 I am a cybersecurity specialist, red teamer and capture the flag player. If you want to read a little bit more, check out my blog on [Medium](https://syro.medium.com/). Here are my [Hack The Box](https://app.hackthebox.com/profile/156456) and [TryHackMe](https://tryhackme.com/p/syro) profiles. You can also find me on [Mastodon](https://infosec.exchange/@syro)
